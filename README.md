@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently a postgraduate student in artificial Intelligence at Soochow University
+- 🔭 I’m currently a postgraduate student in artificial Intelligence at Soochow University
 - 🌱 I’m currently learning discourse parsing in text-based MPC
 - 📫 How to reach me: 2747359382@qq.com
 - 😄 Before that, I mainly studied website front-end and UI design
