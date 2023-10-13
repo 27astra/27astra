@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Astra's GitHub stats](https://github-readme-stats.vercel.app/api?username=27astra&show_icons=true&theme=vue)
+![Astra's GitHub status](https://github-readme-stats.vercel.app/api?username=27astra&show_icons=true&theme=vue)
 ![Astra's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=27astra&show_icons=true&count_private=true&theme=vue)
 - 🔭 I’m currently a postgraduate student in artificial Intelligence at Soochow University
 - 🌱 I’m currently learning discourse parsing in text-based MPC
